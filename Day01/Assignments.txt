@@ -1,0 +1,59 @@
+Assigmnet 1)
+1
+23
+456
+7890
+
+Assigmnet 2)
+1
+11
+111
+1111
+11111
+
+Assigmnet 3)
+1
+22
+333
+4444
+55555
+
+Assigmnet 4)
+	0,1,1,2,3,5,8,.........................
+
+Assigmnet 5)
+     1=1!
+     2=2!
+    145=1!+4!+5!
+	???
+
+Assigmnet 6)
+	sin(90)=1
+        sin(0)=0
+
+first = x
+second=first*(-x^2)/((2n)(2n+1)) where n=1
+second =-x^3/(2*3)=-x^3/3!
+third=second*(-x^2)/((2n)(2n+1)) where n=2
+third=(+x^5/3!)/5!
+
+Assignment 7)
+   cosine series
+
+Assignment 8)
+   1
+   1 1
+   1 2 1
+   1 3 3 1
+   1 4 6 4 1
+   1 5 10 10 5 1
+
+Assignemnet 9)
+  Print prime numbers from lower to upper(100 to 500)
+
+
+Further Reading
+1)  c style string  ie %s % i {the working of python}
+2)  unix style string  
+ 
+ 

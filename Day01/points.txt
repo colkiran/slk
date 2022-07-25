@@ -1,0 +1,124 @@
+Pythonpyth
+-------
+3.9.x
+-------
+1. SDK - Software Developent Kit
+2. IDLE - Integrated Development Environment
+3. Shell
+
+\Object Oriented
+-----------------
+everything in python is an object including a variable
+
+Two operators that are overloaded  by default
+------------------------------------------------
++ and * that are overloaded
+
++ => addition and concatenation
+
+*	=> Multiplication and printing a string n number of times
+
+OS Module(library)
+-----------
+is to communicate with the OS on which python is installed
+
+functions
+---------
+
+
+imoort os
+(5mb)
+
+from os import system
+
+from imp import reload
+
+Module - imp
+function - reload
+
+--------------------------------------------------------
+Coding Rules
+-------------
+
+#!   - She bang		->  	specify the path of python.exe file
+
+Comments
+---------
+1. # - single line comment
+
+Strings 
+--------
+strings are enclosed in " " or ' ' - single line string
+
+Multiple line string are enlcosed in """    """  or '''    '''
+
+"""
+multi   
+    line
+       comments
+"""
+We rely on indentation than paranthesis {   }
+
+def fun():
+	print("This is function fun code")
+	for i in range(1, 10):
+		print("Thus is for loop code...")
+		if(i % 2 == 0):	
+			print("if condition code..")
+			print(i)
+
+print("Main module code")
+
+Primitive Datatypes 
+--------------------
+1. Numbers
+	a. integers
+	b. float
+	c. complex
+2. strings
+3  Boolean
+
+Identifiers or variables 
+---------------------------
+1. No keywords - if, print
+2. should start with a string or _
+3. variable names can have numbers and _
+4. no spaces
+
+5  - 0101 - 1010
+3  - 0011
+--------------
+     0111 
+
+
+Loops and control structures
+-----------------------------
+control structures
+-------------------
+1. if condition
+
+Loops
+-------
+1. for loop
+2 . while loop
+
+2.x
+------
+1. input - numbers
+2. raw_input - text
+
+3.x
+----
+1. input - text
+
+for each loop in other technologies
+-------------------------------------
+depends on a collection
+colletion - numbers, objects
+
+range(1, 10)
+
+print syntax
+-------------
+print(data, sep="", end="\n")
+
