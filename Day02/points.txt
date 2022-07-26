@@ -1,0 +1,78 @@
+print the following pattern
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1 
+5 4 3 2 1
+
+print prime numbers between 150 and 50 and also print the count of it
+
+Strings
+--------
+1. strings are immutable
+
+string can be enclosed in "" or '' (single line strings)
+
+Multi line strings are enclosed in """ or  '''
+
+
+Datastructures 
+---------------
+1. lists
+2. dictionaries
+3. tuples
+4. sets
+
+Lists
+-----
+similar to arrays
+
+What are arrays
+---------------
+1. collection of homogenous data
+2. memory allocation is contigious
+
+Lists are a collection of hetrogenous data
+memory allocation is not contigious
+oredered collection
+mutable
+subscriptable
+lists are enclosed in []
+
+
+List Manipulation functions
+----------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+  
+
+Assignment01
+-------------
+1! = 1
+2! = 2
+145! = 1! + 4! + 5!
+	 = 1 + 24 + 120
+	 = 145
+?
+
+
+1. Akshay
+2. Manuja
+3. Rushi
+4. Suma
+5. Priyanka
+6. Basava Kiran
+7. Chandan
+8. Sid
+
+
+
+  

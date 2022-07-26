@@ -43,3 +43,16 @@ print(f"res :{res}")
 res = st.strip("*")
 print(f"res :{res}")
 
+print("-" * 40)
+print("-" * 40)
+# maketrans and translate
+st = "hello world"
+print(f"st :{st}")
+
+a = "helowrd"
+b = "HELOWRD"
+stTbl = st.maketrans(a, b)
+print(stTbl)
+
+res = st.translate(stTbl)
+print(f"res :{res}")
