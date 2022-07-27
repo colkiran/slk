@@ -47,7 +47,8 @@ lists are enclosed in []
 
 List Manipulation functions
 ----------------------------
-'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop',
+'remove', 'reverse', 'sort'
 
 
 
@@ -70,6 +71,9 @@ Assignment01
 4. Suma
 5. Priyanka
 6. Basava Kiran
+
+
+
 7. Chandan
 8. Sid
 
