@@ -1,0 +1,33 @@
+functions 
+---------
+1. functions should be first defined and then called.
+
+Using recursive calls
+	a. find the factorial of a number
+	b. find the fibanocci series
+
+Lambdas
+--------
+lambda arg1, arg2, arg3..: expression
+
+The result of the expression will be the return value
+
+comprehensions
+---------------
+iteration of a collection(lists, dictionaries) using lambda syntax
+
+Decorators
+-------------
+1. functions
+2. class
+
+closure
+--------
+1. function enclosed in another function
+2. varaibles declared in a different memory is accesed even after loosing the scope of this memory
+
+" :tiger: "
+
+
+
+
