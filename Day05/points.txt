@@ -1,0 +1,50 @@
+hello
+Apples from ooty
+Hi
+-----------------------------
+Mera Bharath Mahan
+Oranges from kanpur
+India is great
+
+Write  decorato which will calculate the time taken by a function to execute. 
+
+##################
+****************
+hello world
+-----------------
+==================
+
+OOPs
+----
+
+Class Attributes or class variables are variables declared inside a class but outside the method
+
+Class attributes are static and their values are the same across objects
+
+Class attributes values can be changed with class Name
+
+Operator Oveloading
+-------------------
+python  every operator is bound to a method => magic methods
+
+write magic method for all arithmetic operators
+
+1. add
+2. sub
+3. mul
+4. div
+5. flr_div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
